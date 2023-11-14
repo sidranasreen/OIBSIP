@@ -1,5 +1,5 @@
 # OIBSIP
-This includes all my completed tasks-1,2,3 for my data science domain internship.
+This includes all my completed tasks-1,2,3 for my data science domain internship at Oasis Infobyte.
 <br>
 Author- Sidra Nasreen
 <br>
